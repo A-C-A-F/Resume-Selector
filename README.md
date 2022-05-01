@@ -1,5 +1,5 @@
 # Resume-Selector
-Resume Selector Using Naive Bayes Classifier
+Resume Selector Using Naïve Bayes Classifier
 
 
 In this project, we will build a naive based model to predict whether given resume text is flagged or not. Simply put, if the resume is flagged, that means that the applicant is invited to interview.
@@ -21,5 +21,5 @@ In this project, we will build a naive based model to predict whether given resu
 - __Task 4:__ Perform data cleaning
 - __Task 5:__ Visualize cleaned datasets
 - __Task 6:__ Prepare the data by applying count vectorization
-- __Task 7:__ Train a Naive Bayes classifier model 
+- __Task 7:__ Train a Naïve Bayes classifier model 
 - __Task 8:__ Assess trained model performance
